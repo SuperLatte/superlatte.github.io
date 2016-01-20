@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[綳帶人]]></title>
+  <subtitle><![CDATA[這不是一個技術博客]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://superlatte.me/"/>
+  <updated>2016-01-20T06:51:12.802Z</updated>
+  <id>http://superlatte.me/</id>
+  
+  <author>
+    <name><![CDATA[SuperLatte]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[test]]></title>
+    <link href="http://superlatte.me/2016/01/20/test/"/>
+    <id>http://superlatte.me/2016/01/20/test/</id>
+    <published>2016-01-20T06:51:02.000Z</published>
+    <updated>2016-01-20T06:51:12.802Z</updated>
+    <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>test</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
