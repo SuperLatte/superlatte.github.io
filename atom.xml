@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[綳帶人]]></title>
+  <title><![CDATA[綳帶人的自述]]></title>
   <subtitle><![CDATA[這不是一個技術博客]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://superlatte.me/"/>
@@ -8,7 +8,7 @@
   <id>http://superlatte.me/</id>
   
   <author>
-    <name><![CDATA[SuperLatte]]></name>
+    <name><![CDATA[綳帶人]]></name>
     
   </author>
   
